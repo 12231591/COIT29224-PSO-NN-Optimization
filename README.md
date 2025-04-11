@@ -63,9 +63,8 @@ The application domain selected is **football match outcome prediction**, using 
   - Confusion Matrix
   - PSO Convergence Plot
   - Runtime per PSO run
-
-- **Best Model Accuracy**: `X.XX%` *(replace with actual)*
-- **Baseline Accuracy**: `X.XX%`
+- **Best Model Accuracy**: 
+- **Baseline Accuracy**: 
 - **F1-score improvement** observed in all three classes with PSO over Baseline.
 - Early stopping implemented to avoid overfitting.
 
