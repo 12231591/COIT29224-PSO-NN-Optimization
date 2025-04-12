@@ -75,7 +75,4 @@ The application domain selected is **football match outcome prediction**, using 
 - PSO convergence plots
 - F1-score bar charts
 
----
-
-## 📁 Repository Structure
 
