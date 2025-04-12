@@ -101,7 +101,7 @@ Dynamic informant sizes (3, 4, 5) were used across multiple PSO runs to explore 
 ### 3. Setup Instructions
 
 #### ▶ Option 1: Local VM with Visual Studio Code
-Refer to [VM_Code_Guide.docx](./VM_Code_Guide.docx)
+Refer to [VM_Code_Guide.docx](https://github.com/12231591/COIT29224-PSO-NN-Optimization/blob/249a70d496293b603fd70bdbb3cf032e30c1355f/VM_Code_Guide.docx)
 
 #### ▶ Option 2: Google Colab (Recommended for Simplicity)
 Refer to [Google_Colab_Run_Guide.docx](./Google_Colab_Run_Guide.docx)
