@@ -107,7 +107,7 @@ Refer to [VM_Code_Guide.docx](https://github.com/12231591/COIT29224-PSO-NN-Optim
 Refer to [Google_Colab_Run_Guide.docx]([./Google_Colab_Run_Guide.docx](https://github.com/12231591/COIT29224-PSO-NN-Optimization/blob/249a70d496293b603fd70bdbb3cf032e30c1355f/Google_Colab_Run_Guide.docx))
 
 #### ▶ Option 3: Kaggle (Recommended for Long Training)
-Refer to [Running_PSO_NN_on_Kaggle.docx](./Running_PSO_NN_on_Kaggle.docx)
+Refer to [Running_PSO_NN_on_Kaggle.docx](https://github.com/12231591/COIT29224-PSO-NN-Optimization/blob/33309e2e7a68ea275f0463f6754bb117e13e6c7f/Running_PSO_NN_on_Kaggle.docx)
 
 ---
 
